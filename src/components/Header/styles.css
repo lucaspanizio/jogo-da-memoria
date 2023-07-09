@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  color: #fff;
+  gap: 5px;
+}
+
+.btn {
+  cursor: pointer;
+}
